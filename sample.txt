@@ -1,5 +1,9 @@
 Something in the file
 something else in the file
 More stuff
-Adding meven more stuff inside the online repository.
+ HEAD
+Adding even more stuff inside the online repository.
 instructions said to make more changes here to conflict with the changes made online
+=======
+
+>>>>>>> 823f7799b716ebf34a389d9507b14358c69a93d3
